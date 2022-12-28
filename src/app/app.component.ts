@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Geolocation, Geoposition } from '@ionic-native/geolocation/ngx';
 
 @Component({
   selector: 'app-root',
